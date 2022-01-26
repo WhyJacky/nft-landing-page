@@ -31,7 +31,7 @@ body {
 }
 
 .container {
-  max-width: 960px;
+  /* max-width: 960px; */
   margin: 0 auto;
   padding: 1rem 2rem;
 }
@@ -66,8 +66,8 @@ header .container {
   font-weight: bold;
   font-size: 1rem;
   text-transform: capitalize;
-  transition: all 0.3s ease;
-  box-shadow: 4px 4px 0 0 var(--accent-color);
+/*   transition: all 0.3s ease;
+  box-shadow: 4px 4px 0 0 var(--accent-color); */
   cursor: pointer;
   position: relative;
   text-decoration: none;
@@ -78,8 +78,8 @@ header .container {
 }
 
 .wallet-btn {
-  border-radius: 5rem;
-  margin-left: 2rem;
+  border-radius: 9px;
+  margin-left: 1rem;
   border-color: transparent;
 }
 
